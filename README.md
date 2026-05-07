@@ -1,14 +1,14 @@
 # kickstart.nvim
 
-#### Clone kickstart.nvim
+## Clone kickstart.nvim
 
-<details><summary> Linux </summary>
+### Linux
 
 ```sh
 git clone https://github.com/Ale-ander/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
-#### Linux Install
+### Linux Install
 <details><summary>Ubuntu Install Steps</summary>
 
 ```
